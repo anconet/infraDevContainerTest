@@ -1,3 +1,4 @@
 [submodule "infraDevContainer"]
 	path = infraDevContainer
 	url = https://github.com/anconet/infraDevContainer.git
+	branch = main
